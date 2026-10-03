@@ -5,6 +5,8 @@ A Python desktop application for 2D spatial filtering and edge detection, built 
 ![Python](https://img.shields.io/badge/python-3.13-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![Image DSP Studio screenshot](screenshot.png)
+
 ## Features
 
 - Load any color photo and view it alongside its grayscale conversion
